@@ -23,7 +23,7 @@ body{
   height: 100%;
 }
 
-#title{
+title{
   color: #393939;
   position: absolute;
   margin: 0px;
@@ -34,7 +34,7 @@ body{
   font-family: 'Staatliches', cursive;
 }
 
-#body{
+body{
   grid-template-columns: 30px 1fr 1fr 1fr 30px;
   grid-template-rows: 400px;
   align-content: center;
